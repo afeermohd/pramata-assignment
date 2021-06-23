@@ -1,0 +1,21 @@
+.multiRangeSlider {
+  /* height: 30%; */
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: flex-end;
+  /* position: sticky; */
+
+  /* width: 100%; */
+  /* height: 100%;/ */
+  background-color: white;
+  position: sticky;
+  /* margin-bottom: 40px; */
+  padding-bottom: 30px;
+  top: 30px;
+  z-index: 998;
+}
+
+.container {
+}

@@ -1,0 +1,10 @@
+.timelinepage {
+  flex: 12;
+  margin: 50px 50px 0px 400px;
+}
+
+@media screen and (max-width: 768px) {
+  .timelinepage {
+    margin: 50px 50px 0px 50px;
+  }
+}

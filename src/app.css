@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  /* margin-top: 10px; */
+}
+
+@media screen and (max-width: 768px) {
+  .sidebarPage {
+    display: none;
+  }
+}
